@@ -18,14 +18,11 @@ async function scrapeAddress(borough, houseNumber, street) {
     await page.click('button:has-text("Submit")', { timeout: 45000 })
 
     // should go to https://hpdonline.hpdnyc.org/HPDonline/select_application.aspx
-    await page.locator('#lbtnIcard').click({ timeout: 60000 })
+    await page.locator('#lbtnIcard').click({ timeout: 30000 })
     await page.waitForLoadState('networkidle')
 
     const iCardTableRows = page.locator('#dgImages tbody')
     const iCardTableRowsContent = await iCardTableRows.allInnerTexts()
-
-    // log out the icard results for this address
-    console.log(`Found: ${borough}, ${houseNumber}, ${street}, ${iCardTableRowsContent}`)
 
     await context.close()
     await browser.close()

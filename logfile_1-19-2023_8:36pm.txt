@@ -6523,3 +6523,47 @@ Found: Brooklyn, 550, EAST 4 STREET,
 processing batch... 1100 - 1101
 Found: Brooklyn, 548, EAST 4 STREET, 
 processing batch... 1101 - 1102
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5372,
+    lot: 36,
+    address: '544 EAST 4 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 544,
+    street: 'EAST 4 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 1102 - 1103
+Found: Brooklyn, 542, EAST 4 STREET, 
+processing batch... 1103 - 1104
+Found: Brooklyn, 887, EAST 40 STREET, 
+processing batch... 1104 - 1105
+Found: Brooklyn, 891, EAST 40 STREET, 
+processing batch... 1105 - 1106
+Found: Brooklyn, 1174, EAST 40 STREET, 
+processing batch... 1106 - 1107
+Found: Brooklyn, 889, EAST 40 STREET, 
+processing batch... 1107 - 1108
+Found: Brooklyn, 1180, EAST 40 STREET, 
+processing batch... 1108 - 1109
+Found: Brooklyn, 137, EAST 43 STREET, 
+processing batch... 1109 - 1110
+Found: Brooklyn, 84, EAST 45 STREET, 
+processing batch... 1110 - 1111
+Found: Brooklyn, 456, EAST 49 STREET, 
+processing batch... 1111 - 1112
+Found: Brooklyn, 487, EAST 49 STREET, 
+processing batch... 1112 - 1113

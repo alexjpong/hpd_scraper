@@ -35,13 +35,23 @@ async function main() {
     })
 
     try {
-      const scrapingData = await Promise.all(promises)
-      scrapingData.forEach((icardInfo, index) => {
-        const insertStatement = db.prepare('update "addresses" set icard = ?, updated_at = ? where borough = ? and address = ?;')
-        insertStatement.run(icardInfo.toString(), new Date().toISOString(), rows[index].borough, rows[index].address)
+      const scrapingDataResults = await Promise.allSettled(promises)
+
+      scrapingDataResults.forEach((result, index) => {
+        const { status, value, reason } = result
+
+        if (status === "fulfilled") {
+          console.log(`Success: updating icard value for: ${rows[index].borough}, ${rows[index].address} to: ${value}`)
+          const insertStatement = db.prepare('update "addresses" set icard = ?, updated_at = ? where borough = ? and address = ?;')
+          insertStatement.run(value.toString(), new Date().toISOString(), rows[index].borough, rows[index].address)
+        } else if (status === 'rejected') {
+          console.log(`Failure: updating error_count value for: ${rows[index].borough}, ${rows[index].address} to: ${rows[index].error_count + 1}`)
+          const insertStatementForError = db.prepare('update "addresses" set error_count = ? where borough = ? and address = ?;')
+          insertStatementForError.run(rows[index].error_count + 1, rows[index].borough, rows[index].address)
+        }
       })
     } catch (error) {
-      console.log('error in batch:', rows, error)
+      console.log('error in batch for rows:', rows, error)
     }
   }
 
