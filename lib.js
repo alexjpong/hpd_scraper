@@ -1,6 +1,6 @@
 const playwright = require("playwright")
 
-async function initScrape(borough, houseNumber, street) {
+async function scrapeAddress(borough, houseNumber, street) {
 
   const browser = await playwright.chromium.launch({
     headless: true
@@ -24,11 +24,13 @@ async function initScrape(borough, houseNumber, street) {
   const iCardTableRowsContent = await iCardTableRows.allInnerTexts()
 
   // log out the icard results for this address
-  console.log(borough, houseNumber, street, iCardTableRowsContent)
+  console.log(`Found: ${borough}, ${houseNumber}, ${street}, ${iCardTableRowsContent}`)
 
   await context.close()
   await browser.close()
+
+  return iCardTableRowsContent
 }
 
 
-module.exports = initScrape
+module.exports = scrapeAddress
