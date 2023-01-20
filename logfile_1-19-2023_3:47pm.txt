@@ -1,0 +1,662 @@
+Total Count: 7913
+processing batch... 0 - 1
+Found: Brooklyn, 32, 1 PLACE, 
+processing batch... 1 - 2
+Found: Brooklyn, 285, 1 STREET, Date Taken	Description	Document Type	 
+04/07/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/07/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 2 - 3
+Found: Brooklyn, 475A, 1 STREET, Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 3 - 4
+Found: Brooklyn, 567, 1 STREET, 
+processing batch... 4 - 5
+Found: Brooklyn, 566, 1 STREET, 
+processing batch... 5 - 6
+Found: Brooklyn, 28, 1 STREET, Date Taken	Description	Document Type	 
+04/01/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/01/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 6 - 7
+Found: Brooklyn, 557, 1 STREET, 
+processing batch... 7 - 8
+Found: Brooklyn, 535, 1 STREET, 
+processing batch... 8 - 9
+Found: Brooklyn, 548, 1 STREET, 
+processing batch... 9 - 10
+Found: Brooklyn, 283, 1 STREET, 
+processing batch... 10 - 11
+Found: Brooklyn, 368, 1 STREET, 
+processing batch... 11 - 12
+Found: Brooklyn, 423A, 1 STREET, 
+processing batch... 12 - 13
+Found: Brooklyn, 435, 1 STREET, 
+processing batch... 13 - 14
+Found: Brooklyn, 551, 1 STREET, 
+processing batch... 14 - 15
+Found: Brooklyn, 568, 1 STREET, 
+processing batch... 15 - 16
+Found: Brooklyn, 534, 1 STREET, Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 16 - 17
+Found: Brooklyn, 550, 1 STREET, 
+processing batch... 17 - 18
+Found: Brooklyn, 560, 1 STREET, 
+processing batch... 18 - 19
+Found: Brooklyn, 509, 1 STREET, Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 19 - 20
+Found: Brooklyn, 555, 1 STREET, 
+processing batch... 20 - 21
+Found: Brooklyn, 533, 1 STREET, 
+processing batch... 21 - 22
+Found: Brooklyn, 480, 1 STREET, 
+processing batch... 22 - 23
+Found: Brooklyn, 536, 1 STREET, 
+processing batch... 23 - 24
+Found: Brooklyn, 542, 1 STREET, 
+processing batch... 24 - 25
+Found: Brooklyn, 544, 1 STREET, 
+processing batch... 25 - 26
+Found: Brooklyn, 552, 1 STREET, 
+processing batch... 26 - 27
+Found: Brooklyn, 556, 1 STREET, 
+processing batch... 27 - 28
+Found: Brooklyn, 562, 1 STREET, 
+processing batch... 28 - 29
+Found: Brooklyn, 554, 1 STREET, 
+processing batch... 29 - 30
+Found: Brooklyn, 21, 1 STREET, 
+processing batch... 30 - 31
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1076,
+    lot: 12,
+    address: '464 1 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1911,
+    number: 464,
+    street: '1 STREET',
+    icard: null
+  }
+] locator.click: Timeout 120000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:42:28) {
+  name: 'TimeoutError'
+}
+processing batch... 31 - 32
+Found: Brooklyn, 538, 1 STREET, 
+processing batch... 32 - 33
+Found: Brooklyn, 541, 1 STREET, 
+processing batch... 33 - 34
+Found: Brooklyn, 478, 1 STREET, 
+processing batch... 34 - 35
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1076,
+    lot: 11,
+    address: '462 1 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1911,
+    number: 462,
+    street: '1 STREET',
+    icard: null
+  }
+] locator.click: Timeout 120000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:42:28) {
+  name: 'TimeoutError'
+}
+processing batch... 35 - 36
+Found: Brooklyn, 558, 1 STREET, 
+processing batch... 36 - 37
+Found: Brooklyn, 5108, 10 AVENUE, 
+processing batch... 37 - 38
+Found: Brooklyn, 8305, 10 AVENUE, 
+processing batch... 38 - 39
+Found: Brooklyn, 8014, 10 AVENUE, 
+processing batch... 39 - 40
+Found: Brooklyn, 8016, 10 AVENUE, 
+processing batch... 40 - 41
+Found: Brooklyn, 8315, 10 AVENUE, 
+processing batch... 41 - 42
+Found: Brooklyn, 8303, 10 AVENUE, 
+processing batch... 42 - 43
+Found: Brooklyn, 8311, 10 AVENUE, 
+processing batch... 43 - 44
+Found: Brooklyn, 7311, 10 AVENUE, 
+processing batch... 44 - 45
+Found: Brooklyn, 7902, 10 AVENUE, 
+processing batch... 45 - 46
+Found: Brooklyn, 8004, 10 AVENUE, 
+processing batch... 46 - 47
+Found: Brooklyn, 8006, 10 AVENUE, 
+processing batch... 47 - 48
+Found: Brooklyn, 8018, 10 AVENUE, 
+processing batch... 48 - 49
+Found: Brooklyn, 8020, 10 AVENUE, 
+processing batch... 49 - 50
+Found: Brooklyn, 8309, 10 AVENUE, 
+processing batch... 50 - 51
+Found: Brooklyn, 7314, 10 AVENUE, 
+processing batch... 51 - 52
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5923,
+    lot: 43,
+    address: '7316 10 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 7316,
+    street: '10 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:42:28) {
+  name: 'TimeoutError'
+}
+processing batch... 52 - 53
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5923,
+    lot: 40,
+    address: '7310 10 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 7310,
+    street: '10 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:42:28) {
+  name: 'TimeoutError'
+}
+processing batch... 53 - 54
+Found: Brooklyn, 8024, 10 AVENUE, 
+processing batch... 54 - 55
+Found: Brooklyn, 8010, 10 AVENUE, 
+processing batch... 55 - 56
+Found: Brooklyn, 5103, 10 AVENUE, 
+processing batch... 56 - 57
+Found: Brooklyn, 5109, 10 AVENUE, 
+processing batch... 57 - 58
+Found: Brooklyn, 8313, 10 AVENUE, 
+processing batch... 58 - 59
+Found: Brooklyn, 6808, 10 AVENUE, 
+processing batch... 59 - 60
+Found: Brooklyn, 6814, 10 AVENUE, 
+processing batch... 60 - 61
+Found: Brooklyn, 7320, 10 AVENUE, 
+processing batch... 61 - 62
+Found: Brooklyn, 7322, 10 AVENUE, 
+processing batch... 62 - 63
+Found: Brooklyn, 694, 10 STREET, 
+processing batch... 63 - 64
+Found: Brooklyn, 414, 10 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 64 - 65
+Found: Brooklyn, 435, 10 STREET, Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 65 - 66
+Found: Brooklyn, 521, 10 STREET, Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 66 - 67
+Found: Brooklyn, 592, 10 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 67 - 68
+Found: Brooklyn, 162, 10 STREET, 
+processing batch... 68 - 69
+Found: Brooklyn, 398, 10 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 69 - 70
+Found: Brooklyn, 422, 10 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 70 - 71
+Found: Brooklyn, 424, 10 STREET, 
+processing batch... 71 - 72
+Found: Brooklyn, 430, 10 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 72 - 73
+Found: Brooklyn, 482, 10 STREET, 
+processing batch... 73 - 74
+Found: Brooklyn, 655, 10 STREET, 
+processing batch... 74 - 75
+Found: Brooklyn, 554, 10 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 75 - 76
+Found: Brooklyn, 658, 10 STREET, 
+processing batch... 76 - 77
+Found: Brooklyn, 418, 10 STREET, 
+processing batch... 77 - 78
+Found: Brooklyn, 696, 10 STREET, 
+processing batch... 78 - 79
+Found: Brooklyn, 642, 10 STREET, 
+processing batch... 79 - 80
+Found: Queens, 137-22, 101 AVENUE, 
+processing batch... 80 - 81
+Found: Queens, 137-24, 101 AVENUE, 
+processing batch... 81 - 82
+Found: Queens, 218-41, 101 AVENUE, 
+processing batch... 82 - 83
+Found: Queens, 218-43, 101 AVENUE, 
+processing batch... 83 - 84
+Found: Queens, 33-25, 101 STREET, 
+processing batch... 84 - 85
+Found: Queens, 33-35, 101 STREET, 
+processing batch... 85 - 86
+Found: Queens, 138-19, 102 AVENUE, 
+processing batch... 86 - 87
+Found: Queens, 138-17, 102 AVENUE, 
+processing batch... 87 - 88
+Found: Queens, 85-62, 102 STREET, 
+processing batch... 88 - 89
+Found: Queens, 32-41, 102 STREET, 
+processing batch... 89 - 90
+Found: Queens, 46-12, 102 STREET, 
+processing batch... 90 - 91
+Found: Queens, 46-14, 102 STREET, 
+processing batch... 91 - 92
+Found: Queens, 46-18, 102 STREET, 
+processing batch... 92 - 93
+Found: Queens, 85-40, 102 STREET, 
+processing batch... 93 - 94
+Found: Queens, 85-42, 102 STREET, 
+processing batch... 94 - 95
+Found: Queens, 85-54, 102 STREET, 
+processing batch... 95 - 96
+Found: Queens, 85-60, 102 STREET, 
+processing batch... 96 - 97
+Found: Queens, 32-39, 102 STREET, 
+processing batch... 97 - 98
+Found: Queens, 46-20, 102 STREET, 
+processing batch... 98 - 99
+Found: Queens, 85-56, 102 STREET, 
+processing batch... 99 - 100
+Found: Queens, 46-16, 102 STREET, 
+processing batch... 100 - 101
+Found: Queens, 218-09, 103 AVENUE, 
+processing batch... 101 - 102
+Found: Queens, 218-07, 103 AVENUE, 
+processing batch... 102 - 103
+Found: Queens, 218-03, 103 AVENUE, 
+processing batch... 103 - 104
+Found: Queens, 218-05, 103 AVENUE, 
+processing batch... 104 - 105
+Found: Queens, 218-11, 103 AVENUE, 
+processing batch... 105 - 106
+Found: Queens, 33-28, 104 STREET, 
+processing batch... 106 - 107
+Found: Queens, 33-25, 104 STREET, 
+processing batch... 107 - 108
+Found: Queens, 32-14, 106 STREET, 
+processing batch... 108 - 109
+Found: Queens, 32-18, 106 STREET, 
+processing batch... 109 - 110
+Found: Queens, 84-18, 106 STREET, 
+processing batch... 110 - 111
+Found: Queens, 85-36, 106 STREET, 
+processing batch... 111 - 112
+Found: Queens, 32-16, 106 STREET, 
+processing batch... 112 - 113
+Found: Queens, 86-44, 106 STREET, 
+processing batch... 113 - 114
+Found: Queens, 84-20, 106 STREET, 
+processing batch... 114 - 115
+error in batch: [
+  {
+    borough: 'QN',
+    block: 9191,
+    lot: 22,
+    address: '8536 106 STREET',
+    bldgclass: 'A5',
+    numfloors: 2.75,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 8536,
+    street: '106 STREET',
+    icard: null
+  }
+] locator.click: Timeout 120000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:42:28) {
+  name: 'TimeoutError'
+}
+processing batch... 115 - 116
+Found: Queens, 84-32, 106 STREET, 
+processing batch... 116 - 117
+Found: Queens, 86-42, 106 STREET, Date Taken	Description	Document Type	 
+02/08/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+02/08/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 117 - 118
+Found: Queens, 31-14, 107 STREET, 
+processing batch... 118 - 119
+Found: Queens, 85-05, 107 STREET, 
+processing batch... 119 - 120
+Found: Queens, 85-03, 107 STREET, 
+processing batch... 120 - 121
+Found: Queens, 84-04, 107 STREET, 
+processing batch... 121 - 122
+Found: Queens, 85-54, 107 STREET, 
+processing batch... 122 - 123
+Found: Queens, 84-02, 107 STREET, 
+processing batch... 123 - 124
+Found: Queens, 31-08, 107 STREET, 
+processing batch... 124 - 125
+Found: Queens, 31-12, 107 STREET, 
+processing batch... 125 - 126
+Found: Queens, 31-16, 107 STREET, 
+processing batch... 126 - 127
+Found: Queens, 85-13, 108 STREET, 
+processing batch... 127 - 128
+Found: Brooklyn, 5218, 11 AVENUE, 
+processing batch... 128 - 129
+Found: Brooklyn, 4614, 11 AVENUE, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 129 - 130
+Found: Brooklyn, 1630, 11 AVENUE, 
+processing batch... 130 - 131
+Found: Brooklyn, 382, 11 STREET, 
+processing batch... 131 - 132
+Found: Brooklyn, 585, 11 STREET, 
+processing batch... 132 - 133
+Found: Brooklyn, 430, 11 STREET, 
+processing batch... 133 - 134
+Found: Brooklyn, 428, 11 STREET, 
+processing batch... 134 - 135
+Found: Brooklyn, 443, 11 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 135 - 136
+Found: Brooklyn, 474, 11 STREET, 
+processing batch... 136 - 137
+Found: Brooklyn, 600, 11 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 137 - 138
+Found: Brooklyn, 296, 11 STREET, 
+processing batch... 138 - 139
+Found: Brooklyn, 337, 11 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 139 - 140
+Found: Brooklyn, 339, 11 STREET, 
+processing batch... 140 - 141
+Found: Brooklyn, 306, 11 STREET, 
+processing batch... 141 - 142
+Found: Brooklyn, 281, 11 STREET, 
+processing batch... 142 - 143
+Found: Brooklyn, 364, 11 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 143 - 144
+Found: Brooklyn, 386, 11 STREET, 
+processing batch... 144 - 145
+Found: Brooklyn, 376, 11 STREET, 
+processing batch... 145 - 146
+Found: Brooklyn, 261, 11 STREET, 
+processing batch... 146 - 147
+Found: Brooklyn, 432, 11 STREET, 
+processing batch... 147 - 148
+Found: Brooklyn, 434, 11 STREET, 
+processing batch... 148 - 149
+Found: Brooklyn, 545, 11 STREET, Date Taken	Description	Document Type	 
+12/29/2009	I-CARD IMAGE(S)	I_CARD SINGLE	view
+12/29/2009	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 149 - 150
+Found: Brooklyn, 593, 11 STREET, 
+processing batch... 150 - 151
+Found: Brooklyn, 513, 11 STREET, 
+processing batch... 151 - 152
+Found: Brooklyn, 517, 11 STREET, 
+processing batch... 152 - 153
+Found: Brooklyn, 341, 11 STREET, 
+processing batch... 153 - 154
+Found: Brooklyn, 355, 11 STREET, Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 154 - 155
+Found: Brooklyn, 258, 11 STREET, 
+processing batch... 155 - 156
+Found: Brooklyn, 444, 11 STREET, 
+processing batch... 156 - 157
+Found: Brooklyn, 438, 11 STREET, 
+processing batch... 157 - 158
+Found: Brooklyn, 436, 11 STREET, 
+processing batch... 158 - 159
+Found: Brooklyn, 608, 11 STREET, 
+processing batch... 159 - 160
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1095,
+    lot: 71,
+    address: '599 11 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1889,
+    number: 599,
+    street: '11 STREET',
+    icard: null
+  }
+] locator.click: Timeout 120000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:42:28) {
+  name: 'TimeoutError'
+}
+processing batch... 160 - 161
+Found: Brooklyn, 472, 11 STREET, 
+processing batch... 161 - 162
+Found: Brooklyn, 465, 11 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 162 - 163
+Found: Queens, 101-27, 110 STREET, 
+processing batch... 163 - 164
+Found: Queens, 101-33, 110 STREET, 
+processing batch... 164 - 165
+Found: Queens, 101-31, 110 STREET, 
+processing batch... 165 - 166
+Found: Queens, 101-37, 110 STREET, 
+processing batch... 166 - 167
+Found: Queens, 101-35, 110 STREET, 
+processing batch... 167 - 168
+Found: Queens, 101-40, 111 STREET, 
+processing batch... 168 - 169
+Found: Queens, 101-16, 111 STREET, 
+processing batch... 169 - 170
+Found: Queens, 101-36, 111 STREET, 
+processing batch... 170 - 171
+Found: Queens, 101-38, 111 STREET, 
+processing batch... 171 - 172
+Found: Queens, 101-28, 111 STREET, 
+processing batch... 172 - 173
+Found: Queens, 101-30, 111 STREET, 
+processing batch... 173 - 174
+Found: Queens, 101-32, 111 STREET, 
+processing batch... 174 - 175
+Found: Queens, 101-46, 111 STREET, 
+processing batch... 175 - 176
+Found: Queens, 85-39, 111 STREET, 
+processing batch... 176 - 177
+Found: Queens, 85-41, 111 STREET, 
+processing batch... 177 - 178
+Found: Queens, 101-18, 111 STREET, 
+processing batch... 178 - 179
+Found: Queens, 101-22, 111 STREET, 
+processing batch... 179 - 180
+Found: Queens, 101-20, 111 STREET, 
+processing batch... 180 - 181
+Found: Queens, 101-26, 111 STREET, 
+processing batch... 181 - 182
+Found: Queens, 101-42, 111 STREET, 
+processing batch... 182 - 183
+Found: Queens, 101-34, 111 STREET, 
+processing batch... 183 - 184
+Found: Queens, 101-48, 111 STREET, 
+processing batch... 184 - 185
+Found: Queens, 101-52, 111 STREET, 
+processing batch... 185 - 186
+Found: Queens, 14-03, 113 STREET, 
+processing batch... 186 - 187
+Found: Queens, 14-01, 113 STREET, 
+processing batch... 187 - 188
+Found: Queens, 85-46, 113 STREET, 
+processing batch... 188 - 189
+Found: Queens, 85-48, 113 STREET, 
+processing batch... 189 - 190
+Found: Queens, 85-52, 113 STREET, 
+processing batch... 190 - 191
+Found: Queens, 85-54, 113 STREET, 
+processing batch... 191 - 192
+Found: Queens, 85-58, 113 STREET, 
+processing batch... 192 - 193
+Found: Queens, 85-62, 113 STREET, 
+processing batch... 193 - 194
+Found: Queens, 85-50, 113 STREET, 
+processing batch... 194 - 195
+Found: Queens, 85-56, 113 STREET, 
+processing batch... 195 - 196
+Found: Queens, 89-38, 117 STREET, 
+processing batch... 196 - 197
+Found: Queens, 89-36, 117 STREET, 
+processing batch... 197 - 198
+Found: Brooklyn, 5303, 12 AVENUE, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 198 - 199
+error in batch: [
+  {
+    borough: 'BK',
+    block: 6290,
+    lot: 41,
+    address: '8110 12 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 8110,
+    street: '12 AVENUE',
+    icard: null
+  }
+] locator.click: Timeout 120000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:42:28) {
+  name: 'TimeoutError'
+}
+processing batch... 199 - 200
+Found: Brooklyn, 8109, 12 AVENUE, 
+processing batch... 200 - 201
+Found: Brooklyn, 8104, 12 AVENUE, 
+processing batch... 201 - 202
+Found: Brooklyn, 7802, 12 AVENUE, 
+processing batch... 202 - 203
+Found: Brooklyn, 8112, 12 AVENUE, 
+processing batch... 203 - 204
+Found: Brooklyn, 8106, 12 AVENUE, 
+processing batch... 204 - 205
+Found: Brooklyn, 8108, 12 AVENUE, 
+processing batch... 205 - 206
+Found: Brooklyn, 8107, 12 AVENUE, 
+processing batch... 206 - 207
+Found: Brooklyn, 8105, 12 AVENUE, 
+processing batch... 207 - 208
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1029,
+    lot: 11,
+    address: '292 12 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1900,
+    number: 292,
+    street: '12 STREET',
+    icard: null
+  }
+] locator.click: Timeout 120000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:42:28) {
+  name: 'TimeoutError'
+}
+processing batch... 208 - 209
+Found: Brooklyn, 375A, 12 STREET, 
+processing batch... 209 - 210
+Found: Brooklyn, 343, 12 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 210 - 211
+Found: Queens, 31-11, 12 STREET, 
+processing batch... 211 - 212
+Found: Brooklyn, 389, 12 STREET, Date Taken	Description	Document Type	 
+04/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 212 - 213
