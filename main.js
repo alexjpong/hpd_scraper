@@ -37,8 +37,8 @@ async function main() {
     try {
       const scrapingData = await Promise.all(promises)
       scrapingData.forEach((icardInfo, index) => {
-        const insertStatement = db.prepare('update "addresses" set icard = ? where borough = ? and address = ?;')
-        insertStatement.run(icardInfo.toString(), rows[index].borough, rows[index].address)
+        const insertStatement = db.prepare('update "addresses" set icard = ?, updated_at = ? where borough = ? and address = ?;')
+        insertStatement.run(icardInfo.toString(), new Date().toISOString(), rows[index].borough, rows[index].address)
       })
     } catch (error) {
       console.log('error in batch:', rows, error)

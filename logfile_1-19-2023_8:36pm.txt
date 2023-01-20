@@ -1,0 +1,2542 @@
+Total Count: 7498
+processing batch... 0 - 1
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1076,
+    lot: 12,
+    address: '464 1 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1911,
+    number: 464,
+    street: '1 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 1 - 2
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1076,
+    lot: 11,
+    address: '462 1 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1911,
+    number: 462,
+    street: '1 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 2 - 3
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1095,
+    lot: 71,
+    address: '599 11 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1889,
+    number: 599,
+    street: '11 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 3 - 4
+error in batch: [
+  {
+    borough: 'BK',
+    block: 6290,
+    lot: 41,
+    address: '8110 12 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 8110,
+    street: '12 AVENUE',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 4 - 5
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1029,
+    lot: 11,
+    address: '292 12 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1900,
+    number: 292,
+    street: '12 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 5 - 6
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 66,
+    address: '409 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1902,
+    number: 409,
+    street: '13 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 6 - 7
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 61,
+    address: '419 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1881,
+    number: 419,
+    street: '13 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 7 - 8
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 64,
+    address: '413 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1902,
+    number: 413,
+    street: '13 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 8 - 9
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 63,
+    address: '415 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1881,
+    number: 415,
+    street: '13 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 9 - 10
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 65,
+    address: '411 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1902,
+    number: 411,
+    street: '13 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 10 - 11
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 60,
+    address: '421 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1881,
+    number: 421,
+    street: '13 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 11 - 12
+Found: Brooklyn, 292, 14 STREET, 
+processing batch... 12 - 13
+Found: Brooklyn, 6411, 15 AVENUE, 
+processing batch... 13 - 14
+Found: Brooklyn, 8928, 15 AVENUE, 
+processing batch... 14 - 15
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5741,
+    lot: 64,
+    address: '6312 15 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 6312,
+    street: '15 AVENUE',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 15 - 16
+Found: Brooklyn, 6415, 15 AVENUE, 
+processing batch... 16 - 17
+Found: Brooklyn, 422, 16 STREET, Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 17 - 18
+Found: Brooklyn, 582, 16 STREET, 
+processing batch... 18 - 19
+Found: Brooklyn, 7521, 17 AVENUE, 
+processing batch... 19 - 20
+Found: Brooklyn, 265, 17 STREET, 
+processing batch... 20 - 21
+Found: Brooklyn, 456, 17 STREET, 
+processing batch... 21 - 22
+Found: Brooklyn, 423, 17 STREET, 
+processing batch... 22 - 23
+Found: Brooklyn, 248, 18 STREET, 
+processing batch... 23 - 24
+Found: Brooklyn, 427, 18 STREET, 
+processing batch... 24 - 25
+Found: Brooklyn, 642, 19 STREET, 
+processing batch... 25 - 26
+Found: Brooklyn, 12, 2 PLACE, Date Taken	Description	Document Type	 
+04/01/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/01/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 26 - 27
+Found: Brooklyn, 17, 2 PLACE, Date Taken	Description	Document Type	 
+04/01/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/01/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 27 - 28
+Found: Brooklyn, 593, 2 STREET, 
+processing batch... 28 - 29
+Found: Brooklyn, 607, 2 STREET, 
+processing batch... 29 - 30
+Found: Brooklyn, 30, 2 STREET, 
+processing batch... 30 - 31
+Found: Brooklyn, 103, 2 STREET, 
+processing batch... 31 - 32
+Found: Brooklyn, 633, 2 STREET, 
+processing batch... 32 - 33
+Found: Brooklyn, 615, 2 STREET, 
+processing batch... 33 - 34
+Found: Brooklyn, 595, 2 STREET, 
+processing batch... 34 - 35
+Found: Brooklyn, 600, 2 STREET, Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 35 - 36
+Found: Brooklyn, 601, 2 STREET, 
+processing batch... 36 - 37
+Found: Brooklyn, 34, 2 STREET, 
+processing batch... 37 - 38
+Found: Brooklyn, 99, 2 STREET, 
+processing batch... 38 - 39
+Found: Brooklyn, 8009, 20 AVENUE, 
+processing batch... 39 - 40
+Found: Brooklyn, 354A, 20 STREET, Date Taken	Description	Document Type	 
+04/06/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/06/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 40 - 41
+Found: Brooklyn, 663, 20 STREET, 
+processing batch... 41 - 42
+Found: Brooklyn, 6310, 21 AVENUE, 
+processing batch... 42 - 43
+Found: Brooklyn, 237, 27 STREET, Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 43 - 44
+Found: Brooklyn, 7, 3 PLACE, Date Taken	Description	Document Type	 
+04/01/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/01/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 44 - 45
+Found: Brooklyn, 39, 3 PLACE, 
+processing batch... 45 - 46
+error in batch: [
+  {
+    borough: 'BK',
+    block: 366,
+    lot: 45,
+    address: '71 3 PLACE',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1901,
+    number: 71,
+    street: '3 PLACE',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 46 - 47
+Found: Brooklyn, 594, 3 STREET, 
+processing batch... 47 - 48
+Found: Brooklyn, 532, 3 STREET, 
+processing batch... 48 - 49
+Found: Brooklyn, 534, 3 STREET, 
+processing batch... 49 - 50
+Found: Brooklyn, 631, 3 STREET, 
+processing batch... 50 - 51
+Found: Brooklyn, 562, 3 STREET, Date Taken	Description	Document Type	 
+04/01/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/01/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 51 - 52
+Found: Brooklyn, 629, 3 STREET, 
+processing batch... 52 - 53
+Found: Brooklyn, 581, 3 STREET, 
+processing batch... 53 - 54
+Found: Brooklyn, 546, 3 STREET, 
+processing batch... 54 - 55
+Found: Brooklyn, 489, 3 STREET, Date Taken	Description	Document Type	 
+04/01/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/01/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 55 - 56
+Found: Brooklyn, 621, 3 STREET, 
+processing batch... 56 - 57
+Found: Brooklyn, 210A, 30 STREET, 
+processing batch... 57 - 58
+Found: Brooklyn, 208, 30 STREET, 
+processing batch... 58 - 59
+Found: Brooklyn, 145, 31 STREET, 
+processing batch... 59 - 60
+error in batch: [
+  {
+    borough: 'BK',
+    block: 685,
+    lot: 54,
+    address: '217B 34 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: '217B',
+    street: '34 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 60 - 61
+Found: Brooklyn, 419, 37 STREET, 
+processing batch... 61 - 62
+Found: Brooklyn, 8, 4 PLACE, Date Taken	Description	Document Type	 
+04/01/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/01/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 62 - 63
+Found: Brooklyn, 579, 4 STREET, 
+processing batch... 63 - 64
+Found: Brooklyn, 423, 4 STREET, Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 64 - 65
+Found: Brooklyn, 558, 4 STREET, 
+processing batch... 65 - 66
+Found: Brooklyn, 587, 4 STREET, 
+processing batch... 66 - 67
+Found: Brooklyn, 578, 4 STREET, 
+processing batch... 67 - 68
+Found: Brooklyn, 582, 4 STREET, 
+processing batch... 68 - 69
+Found: Brooklyn, 540, 4 STREET, 
+processing batch... 69 - 70
+Found: Brooklyn, 550, 4 STREET, 
+processing batch... 70 - 71
+Found: Brooklyn, 556, 4 STREET, 
+processing batch... 71 - 72
+Found: Brooklyn, 538, 4 STREET, 
+processing batch... 72 - 73
+Found: Brooklyn, 571, 4 STREET, 
+processing batch... 73 - 74
+Found: Brooklyn, 360, 4 STREET, 
+processing batch... 74 - 75
+Found: Brooklyn, 573, 4 STREET, 
+processing batch... 75 - 76
+Found: Brooklyn, 597, 4 STREET, 
+processing batch... 76 - 77
+Found: Brooklyn, 589, 4 STREET, 
+processing batch... 77 - 78
+Found: Brooklyn, 572, 4 STREET, 
+processing batch... 78 - 79
+Found: Brooklyn, 1246, 40 STREET, 
+processing batch... 79 - 80
+Found: Brooklyn, 1239, 40 STREET, Date Taken	Description	Document Type	 
+03/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+03/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 80 - 81
+Found: Brooklyn, 726, 41 STREET, 
+processing batch... 81 - 82
+Found: Brooklyn, 1562, 43 STREET, 
+processing batch... 82 - 83
+Found: Brooklyn, 1556, 43 STREET, 
+processing batch... 83 - 84
+Found: Brooklyn, 1435, 43 STREET, Date Taken	Description	Document Type	 
+04/06/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/06/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 84 - 85
+Found: Brooklyn, 1726, 44 STREET, 
+processing batch... 85 - 86
+Found: Brooklyn, 1317, 44 STREET, 
+processing batch... 86 - 87
+Found: Brooklyn, 1185, 44 STREET, 
+processing batch... 87 - 88
+Found: Brooklyn, 1538, 44 STREET, 
+processing batch... 88 - 89
+Found: Brooklyn, 1560, 44 STREET, 
+processing batch... 89 - 90
+Found: Brooklyn, 1533, 44 STREET, 
+processing batch... 90 - 91
+Found: Brooklyn, 1576, 44 STREET, 
+processing batch... 91 - 92
+Found: Brooklyn, 416, 45 STREET, 
+processing batch... 92 - 93
+Found: Brooklyn, 426, 45 STREET, 
+processing batch... 93 - 94
+Found: Brooklyn, 1777, 45 STREET, 
+processing batch... 94 - 95
+Found: Brooklyn, 1738, 46 STREET, 
+processing batch... 95 - 96
+Found: Brooklyn, 1728, 46 STREET, 
+processing batch... 96 - 97
+Found: Brooklyn, 1726, 46 STREET, 
+processing batch... 97 - 98
+Found: Brooklyn, 1756, 46 STREET, 
+processing batch... 98 - 99
+Found: Brooklyn, 1459, 47 STREET, Date Taken	Description	Document Type	 
+04/06/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/06/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 99 - 100
+Found: Brooklyn, 1160, 49 STREET, Date Taken	Description	Document Type	 
+03/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+03/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 100 - 101
+Found: Brooklyn, 418, 5 STREET, Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 101 - 102
+Found: Brooklyn, 581, 5 STREET, 
+processing batch... 102 - 103
+Found: Brooklyn, 602, 5 STREET, 
+processing batch... 103 - 104
+error in batch: [
+  {
+    borough: 'BK',
+    block: 988,
+    lot: 12,
+    address: '352 5 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1901,
+    number: 352,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 104 - 105
+error in batch: [
+  {
+    borough: 'BK',
+    block: 988,
+    lot: 28,
+    address: '376 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1901,
+    number: 376,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 105 - 106
+error in batch: [
+  {
+    borough: 'BK',
+    block: 988,
+    lot: 30,
+    address: '378A 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1901,
+    number: '378A',
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 106 - 107
+error in batch: [
+  {
+    borough: 'BK',
+    block: 988,
+    lot: 39,
+    address: '392 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1901,
+    number: 392,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 107 - 108
+error in batch: [
+  {
+    borough: 'BK',
+    block: 988,
+    lot: 29,
+    address: '378 5 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1901,
+    number: 378,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 108 - 109
+error in batch: [
+  {
+    borough: 'BK',
+    block: 989,
+    lot: 19,
+    address: '426 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1901,
+    number: 426,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 109 - 110
+error in batch: [
+  {
+    borough: 'BK',
+    block: 989,
+    lot: 16,
+    address: '420 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1901,
+    number: 420,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 110 - 111
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1083,
+    lot: 50,
+    address: '603 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1908,
+    number: 603,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 111 - 112
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1083,
+    lot: 51,
+    address: '601 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1908,
+    number: 601,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 112 - 113
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1083,
+    lot: 60,
+    address: '583 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1908,
+    number: 583,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 113 - 114
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1083,
+    lot: 54,
+    address: '595 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1908,
+    number: 595,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 114 - 115
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1083,
+    lot: 59,
+    address: '585 5 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1908,
+    number: 585,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 115 - 116
+error in batch: [
+  {
+    borough: 'BK',
+    block: 985,
+    lot: 73,
+    address: '357 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1899,
+    number: 357,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 116 - 117
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1083,
+    lot: 48,
+    address: '607 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1908,
+    number: 607,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 117 - 118
+error in batch: [
+  {
+    borough: 'BK',
+    block: 989,
+    lot: 13,
+    address: '414 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1901,
+    number: 414,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 118 - 119
+error in batch: [
+  {
+    borough: 'BK',
+    block: 988,
+    lot: 19,
+    address: '362 5 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1901,
+    number: 362,
+    street: '5 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 119 - 120
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5640,
+    lot: 49,
+    address: '1163 50 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1905,
+    number: 1163,
+    street: '50 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 120 - 121
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5647,
+    lot: 30,
+    address: '1158 50 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1905,
+    number: 1158,
+    street: '50 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 121 - 122
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5647,
+    lot: 67,
+    address: '1123 51 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1123,
+    street: '51 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 122 - 123
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5647,
+    lot: 69,
+    address: '1117 51 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1117,
+    street: '51 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 123 - 124
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5647,
+    lot: 63,
+    address: '1133 51 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1133,
+    street: '51 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 124 - 125
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5647,
+    lot: 62,
+    address: '1135 51 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1135,
+    street: '51 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 125 - 126
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5647,
+    lot: 65,
+    address: '1127 51 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1127,
+    street: '51 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 126 - 127
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5647,
+    lot: 68,
+    address: '1121 51 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1121,
+    street: '51 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 127 - 128
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5647,
+    lot: 64,
+    address: '1129 51 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1129,
+    street: '51 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 128 - 129
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5652,
+    lot: 69,
+    address: '921 52 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1905,
+    number: 921,
+    street: '52 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 129 - 130
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5652,
+    lot: 70,
+    address: '919 52 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1905,
+    number: 919,
+    street: '52 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 130 - 131
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5652,
+    lot: 71,
+    address: '915 52 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1905,
+    number: 915,
+    street: '52 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 131 - 132
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5652,
+    lot: 67,
+    address: '925 52 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1905,
+    number: 925,
+    street: '52 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 132 - 133
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5653,
+    lot: 19,
+    address: '1005 52 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 1005,
+    street: '52 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 133 - 134
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5653,
+    lot: 20,
+    address: '1003 52 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 1003,
+    street: '52 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 134 - 135
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5652,
+    lot: 73,
+    address: '909 52 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1905,
+    number: 909,
+    street: '52 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 135 - 136
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5652,
+    lot: 66,
+    address: '927 52 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1905,
+    number: 927,
+    street: '52 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 136 - 137
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5652,
+    lot: 72,
+    address: '913 52 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1905,
+    number: 913,
+    street: '52 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 137 - 138
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5660,
+    lot: 38,
+    address: '1064 52 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1901,
+    number: 1064,
+    street: '52 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 138 - 139
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5469,
+    lot: 47,
+    address: '1971 52 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 1971,
+    street: '52 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 139 - 140
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 118,
+    address: '828 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 828,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 140 - 141
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 119,
+    address: '832 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 832,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 141 - 142
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 16,
+    address: '822 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 822,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 142 - 143
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 17,
+    address: '826 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 826,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 143 - 144
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 18,
+    address: '826A 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: '826A',
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 144 - 145
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 12,
+    address: '814 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 814,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 145 - 146
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 11,
+    address: '812 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 812,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 146 - 147
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 116,
+    address: '824 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 824,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 147 - 148
+error in batch: [
+  {
+    borough: 'BK',
+    block: 815,
+    lot: 33,
+    address: '462 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2.5,
+    unitsres: 1,
+    yearbuilt: 1899,
+    number: 462,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 148 - 149
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 20,
+    address: '834 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 834,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 149 - 150
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5667,
+    lot: 28,
+    address: '1072 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1072,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 150 - 151
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5667,
+    lot: 29,
+    address: '1074 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1074,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 151 - 152
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 15,
+    address: '820A 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: '820A',
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 152 - 153
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 19,
+    address: '830 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 830,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 153 - 154
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5669,
+    lot: 12,
+    address: '1216 53 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 1216,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 154 - 155
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5662,
+    lot: 129,
+    address: '1235 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 1235,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 155 - 156
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5667,
+    lot: 23,
+    address: '1060 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1060,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 156 - 157
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 21,
+    address: '836 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 836,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 157 - 158
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5665,
+    lot: 13,
+    address: '816 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 816,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 158 - 159
+error in batch: [
+  {
+    borough: 'BK',
+    block: 808,
+    lot: 63,
+    address: '529 53 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 529,
+    street: '53 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 159 - 160
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5675,
+    lot: 6,
+    address: '1102 54 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1102,
+    street: '54 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 160 - 161
+error in batch: [
+  {
+    borough: 'BK',
+    block: 826,
+    lot: 18,
+    address: '730 54 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 730,
+    street: '54 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 161 - 162
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5675,
+    lot: 15,
+    address: '1124 54 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1124,
+    street: '54 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 162 - 163
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5675,
+    lot: 27,
+    address: '1152 54 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 1152,
+    street: '54 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 163 - 164
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5675,
+    lot: 18,
+    address: '1130 54 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1130,
+    street: '54 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 164 - 165
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5675,
+    lot: 22,
+    address: '1140 54 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1140,
+    street: '54 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 165 - 166
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5675,
+    lot: 8,
+    address: '1106 54 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1106,
+    street: '54 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 166 - 167
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5675,
+    lot: 31,
+    address: '1162 54 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 1162,
+    street: '54 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 167 - 168
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5675,
+    lot: 17,
+    address: '1128 54 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1128,
+    street: '54 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 168 - 169
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5675,
+    lot: 7,
+    address: '1104 54 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 1104,
+    street: '54 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 169 - 170
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5675,
+    lot: 30,
+    address: '1160 54 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 1160,
+    street: '54 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 170 - 171
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5680,
+    lot: 132,
+    address: '962 55 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 962,
+    street: '55 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 171 - 172
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5680,
+    lot: 27,
+    address: '948 55 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 948,
+    street: '55 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 172 - 173
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5673,
+    lot: 70,
+    address: '949 55 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 949,
+    street: '55 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 173 - 174
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5673,
+    lot: 65,
+    address: '961 55 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 961,
+    street: '55 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 174 - 175
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5680,
+    lot: 25,
+    address: '944 55 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 944,
+    street: '55 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 175 - 176
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5680,
+    lot: 32,
+    address: '960 55 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 960,
+    street: '55 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 176 - 177
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5680,
+    lot: 26,
+    address: '946 55 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 946,
+    street: '55 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 177 - 178
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5680,
+    lot: 31,
+    address: '958 55 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 958,
+    street: '55 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 178 - 179
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5673,
+    lot: 72,
+    address: '945 55 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 945,
+    street: '55 STREET',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 179 - 180
+Found: Brooklyn, 260, 56 STREET, 
+processing batch... 180 - 181
+Found: Brooklyn, 1573, 56 STREET, 
+processing batch... 181 - 182
+Found: Brooklyn, 2046, 58 STREET, 
+processing batch... 182 - 183
+Found: Brooklyn, 1554, 58 STREET, 
+processing batch... 183 - 184
+Found: Brooklyn, 1550, 59 STREET, 
+processing batch... 184 - 185
+Found: Brooklyn, 121, 6 AVENUE, 
+processing batch... 185 - 186
+Found: Brooklyn, 505, 6 AVENUE, 
+processing batch... 186 - 187
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1043,
+    lot: 108,
+    address: '539 6 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1899,
+    number: 539,
+    street: '6 AVENUE',
+    icard: null,
+    updated_at: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:21:38)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 187 - 188
+Found: Brooklyn, 226, 6 AVENUE, 
+processing batch... 188 - 189
+Found: Brooklyn, 379, 6 AVENUE, 
+processing batch... 189 - 190
+Found: Brooklyn, 5110, 6 AVENUE, 
+processing batch... 190 - 191
+Found: Brooklyn, 8025, 6 AVENUE, 
+processing batch... 191 - 192
+Found: Brooklyn, 393A, 6 AVENUE, 
+processing batch... 192 - 193
+Found: Brooklyn, 201A, 6 AVENUE, 
+processing batch... 193 - 194
+Found: Brooklyn, 543A, 6 AVENUE, 
+processing batch... 194 - 195
+Found: Brooklyn, 496, 6 AVENUE, 
+processing batch... 195 - 196
+Found: Brooklyn, 109, 6 AVENUE, 
+processing batch... 196 - 197
+Found: Brooklyn, 383A, 6 STREET, 
+processing batch... 197 - 198
+Found: Brooklyn, 428, 6 STREET, 
+processing batch... 198 - 199
+Found: Brooklyn, 595, 6 STREET, 
+processing batch... 199 - 200
+Found: Brooklyn, 604, 6 STREET, 
+processing batch... 200 - 201
+Found: Brooklyn, 387, 6 STREET, 
+processing batch... 201 - 202
+Found: Brooklyn, 354, 6 STREET, 
+processing batch... 202 - 203
+Found: Brooklyn, 343, 6 STREET, 
+processing batch... 203 - 204
+Found: Brooklyn, 377, 6 STREET, 
+processing batch... 204 - 205
+Found: Brooklyn, 1670, 60 STREET, 
+processing batch... 205 - 206
+Found: Brooklyn, 1951, 61 STREET, 
+processing batch... 206 - 207
+Found: Brooklyn, 1959, 61 STREET, 
+processing batch... 207 - 208
+Found: Brooklyn, 469, 62 STREET, 
+processing batch... 208 - 209
+Found: Brooklyn, 2028, 63 STREET, 
+processing batch... 209 - 210
+Found: Brooklyn, 2042, 63 STREET, 
+processing batch... 210 - 211
+Found: Brooklyn, 2028, 64 STREET, 
+processing batch... 211 - 212
+Found: Brooklyn, 2064, 65 STREET, 
+processing batch... 212 - 213
+Found: Brooklyn, 2052, 65 STREET, 
+processing batch... 213 - 214
+Found: Brooklyn, 2075, 65 STREET, 
+processing batch... 214 - 215
+Found: Brooklyn, 2065, 65 STREET, 
+processing batch... 215 - 216
+Found: Brooklyn, 2048, 65 STREET, 
+processing batch... 216 - 217
+Found: Brooklyn, 2030, 65 STREET, 
+processing batch... 217 - 218
+Found: Brooklyn, 2060, 65 STREET, 
+processing batch... 218 - 219
+Found: Brooklyn, 2046, 66 STREET, 
+processing batch... 219 - 220
+Found: Brooklyn, 2114, 66 STREET, 
+processing batch... 220 - 221
+Found: Brooklyn, 2142, 66 STREET, 
+processing batch... 221 - 222
+Found: Brooklyn, 2052, 66 STREET, 
+processing batch... 222 - 223
+Found: Brooklyn, 2079, 66 STREET, 
+processing batch... 223 - 224
+Found: Brooklyn, 2059, 66 STREET, 
+processing batch... 224 - 225
+Found: Brooklyn, 2030, 66 STREET, 
+processing batch... 225 - 226
+Found: Brooklyn, 2066, 66 STREET, 
+processing batch... 226 - 227
+Found: Brooklyn, 2159, 67 STREET, 
+processing batch... 227 - 228
+Found: Brooklyn, 162, 67 STREET, 
+processing batch... 228 - 229
+Found: Brooklyn, 168, 67 STREET, 
+processing batch... 229 - 230
+Found: Brooklyn, 2015, 67 STREET, 
+processing batch... 230 - 231
+Found: Brooklyn, 2109, 67 STREET, 
+processing batch... 231 - 232
+Found: Brooklyn, 2111, 67 STREET, 
+processing batch... 232 - 233
+Found: Brooklyn, 148, 67 STREET, 
+processing batch... 233 - 234
+Found: Brooklyn, 2145, 67 STREET, 
+processing batch... 234 - 235
+Found: Brooklyn, 2133, 67 STREET, 
+processing batch... 235 - 236
+Found: Brooklyn, 2157, 67 STREET, 
+processing batch... 236 - 237
+Found: Brooklyn, 2171, 67 STREET, 
+processing batch... 237 - 238
+Found: Brooklyn, 160, 67 STREET, 
+processing batch... 238 - 239
+Found: Brooklyn, 152, 67 STREET, 
+processing batch... 239 - 240
+Found: Brooklyn, 541, 68 STREET, 
+processing batch... 240 - 241
+Found: Brooklyn, 549, 68 STREET, 
+processing batch... 241 - 242
+Found: Brooklyn, 181, 68 STREET, 
+processing batch... 242 - 243
+Found: Brooklyn, 514, 68 STREET, 
+processing batch... 243 - 244
+Found: Brooklyn, 522, 68 STREET, 
+processing batch... 244 - 245
+Found: Brooklyn, 528, 68 STREET, 
+processing batch... 245 - 246
+Found: Brooklyn, 141, 68 STREET, 
+processing batch... 246 - 247
+Found: Brooklyn, 1368, 68 STREET, 
+processing batch... 247 - 248
+Found: Brooklyn, 1354, 68 STREET, 
+processing batch... 248 - 249
+Found: Brooklyn, 143, 68 STREET, 
+processing batch... 249 - 250
+Found: Brooklyn, 151, 68 STREET, 
+processing batch... 250 - 251
+Found: Brooklyn, 527, 68 STREET, 
+processing batch... 251 - 252
+Found: Brooklyn, 534, 68 STREET, 
+processing batch... 252 - 253
+Found: Brooklyn, 517, 68 STREET, 
+processing batch... 253 - 254
