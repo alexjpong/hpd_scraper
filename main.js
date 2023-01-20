@@ -14,10 +14,6 @@ const boroughMap = {
   SI: 'Staten Island'
 }
 
-const addresses = [
-  { borough: 'Manhattan', houseNumber: '270', street: 'West 73' }
-]
-
 async function main() {
   let offsetCounter = 0
 
