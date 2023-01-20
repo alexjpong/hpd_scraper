@@ -1,0 +1,962 @@
+Total Count: 7659
+processing batch... 0 - 1
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1076,
+    lot: 12,
+    address: '464 1 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1911,
+    number: 464,
+    street: '1 STREET',
+    icard: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 1 - 2
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1076,
+    lot: 11,
+    address: '462 1 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1911,
+    number: 462,
+    street: '1 STREET',
+    icard: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 2 - 3
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1095,
+    lot: 71,
+    address: '599 11 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1889,
+    number: 599,
+    street: '11 STREET',
+    icard: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 3 - 4
+error in batch: [
+  {
+    borough: 'BK',
+    block: 6290,
+    lot: 41,
+    address: '8110 12 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 8110,
+    street: '12 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 4 - 5
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1029,
+    lot: 11,
+    address: '292 12 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1900,
+    number: 292,
+    street: '12 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 5 - 6
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 66,
+    address: '409 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1902,
+    number: 409,
+    street: '13 STREET',
+    icard: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 6 - 7
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 61,
+    address: '419 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1881,
+    number: 419,
+    street: '13 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 7 - 8
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 64,
+    address: '413 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1902,
+    number: 413,
+    street: '13 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 8 - 9
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 63,
+    address: '415 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1881,
+    number: 415,
+    street: '13 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 9 - 10
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 65,
+    address: '411 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1902,
+    number: 411,
+    street: '13 STREET',
+    icard: null
+  }
+] locator.click: Timeout 60000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 10 - 11
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 60,
+    address: '421 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1881,
+    number: 421,
+    street: '13 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 11 - 12
+Found: Brooklyn, 7822, 14 AVENUE, 
+processing batch... 12 - 13
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1042,
+    lot: 17,
+    address: '278 14 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1899,
+    number: 278,
+    street: '14 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 13 - 14
+Found: Brooklyn, 353A, 14 STREET, 
+processing batch... 14 - 15
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5544,
+    lot: 5,
+    address: '6411 15 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 6411,
+    street: '15 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 15 - 16
+Found: Brooklyn, 6410, 15 AVENUE, 
+processing batch... 16 - 17
+Found: Brooklyn, 6412, 15 AVENUE, 
+processing batch... 17 - 18
+Found: Brooklyn, 6417, 15 AVENUE, 
+processing batch... 18 - 19
+error in batch: [
+  {
+    borough: 'BK',
+    block: 6459,
+    lot: 78,
+    address: '8930 15 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 8930,
+    street: '15 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 19 - 20
+Found: Brooklyn, 8926, 15 AVENUE, 
+processing batch... 20 - 21
+Found: Brooklyn, 6409, 15 AVENUE, 
+processing batch... 21 - 22
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5748,
+    lot: 62,
+    address: '6406 15 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 6406,
+    street: '15 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 22 - 23
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5748,
+    lot: 63,
+    address: '6408 15 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 6408,
+    street: '15 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 23 - 24
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5544,
+    lot: 3,
+    address: '6415 15 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 6415,
+    street: '15 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 24 - 25
+Found: Brooklyn, 297, 15 STREET, 
+processing batch... 25 - 26
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1048,
+    lot: 28,
+    address: '262 15 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1899,
+    number: 262,
+    street: '15 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 26 - 27
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1056,
+    lot: 24,
+    address: '292 16 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1899,
+    number: 292,
+    street: '16 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 27 - 28
+Found: Brooklyn, 375, 16 STREET, 
+processing batch... 28 - 29
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1108,
+    lot: 33,
+    address: '348 16 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1899,
+    number: 348,
+    street: '16 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 29 - 30
+Found: Brooklyn, 314, 16 STREET, 
+processing batch... 30 - 31
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1107,
+    lot: 60,
+    address: '555 16 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1899,
+    number: 555,
+    street: '16 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 31 - 32
+error in batch: [
+  {
+    borough: 'BK',
+    block: 5258,
+    lot: 16,
+    address: '582 16 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1899,
+    number: 582,
+    street: '16 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 32 - 33
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1049,
+    lot: 73,
+    address: '295 16 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1899,
+    number: 295,
+    street: '16 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 33 - 34
+error in batch: [
+  {
+    borough: 'BK',
+    block: 6226,
+    lot: 82,
+    address: '7523 17 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 7523,
+    street: '17 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 34 - 35
+error in batch: [
+  {
+    borough: 'BK',
+    block: 6226,
+    lot: 1,
+    address: '7521 17 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 7521,
+    street: '17 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 35 - 36
+error in batch: [
+  {
+    borough: 'BK',
+    block: 6226,
+    lot: 2,
+    address: '7519 17 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 7519,
+    street: '17 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 36 - 37
+error in batch: [
+  {
+    borough: 'BK',
+    block: 6226,
+    lot: 7,
+    address: '7507 17 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 7507,
+    street: '17 AVENUE',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 37 - 38
+Found: Brooklyn, 4506, 17 AVENUE, 
+processing batch... 38 - 39
+error in batch: [
+  {
+    borough: 'BK',
+    block: 867,
+    lot: 72,
+    address: '265 17 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 265,
+    street: '17 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 39 - 40
+error in batch: [
+  {
+    borough: 'BK',
+    block: 869,
+    lot: 52,
+    address: '421 17 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 421,
+    street: '17 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 40 - 41
+error in batch: [
+  {
+    borough: 'BK',
+    block: 869,
+    lot: 53,
+    address: '419 17 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 419,
+    street: '17 STREET',
+    icard: null
+  }
+] page.click: Timeout 30000ms exceeded.
+=========================== logs ===========================
+waiting for locator('button:has-text("Submit")')
+  locator resolved to visible <button value="Go" type="button" class="btn btn-form-sub…>Submit</button>
+attempting click action
+  waiting for element to be visible, enabled and stable
+  element is visible, enabled and stable
+  scrolling into view if needed
+  done scrolling
+  performing click action
+  click action done
+  waiting for scheduled navigations to finish
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:17:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 41 - 42
+error in batch: [
+  {
+    borough: 'BK',
+    block: 876,
+    lot: 20,
+    address: '456 17 STREET',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 456,
+    street: '17 STREET',
+    icard: null
+  }
+] locator.click: Target closed
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'Error'
+}
+processing batch... 42 - 43

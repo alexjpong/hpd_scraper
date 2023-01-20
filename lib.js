@@ -17,7 +17,7 @@ async function scrapeAddress(borough, houseNumber, street) {
   await page.click('button:has-text("Submit")')
 
   // should go to https://hpdonline.hpdnyc.org/HPDonline/select_application.aspx
-  await page.locator('#lbtnIcard').click({ timeout: 120000 })
+  await page.locator('#lbtnIcard').click({ timeout: 60000 })
   await page.waitForLoadState('networkidle')
 
   const iCardTableRows = page.locator('#dgImages tbody')

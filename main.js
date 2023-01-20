@@ -18,7 +18,7 @@ async function main() {
   let offsetCounter = 0
 
   // fetch count info
-  const { count } = db.prepare('select count(*) as count from "addresses"').get()
+  const { count } = db.prepare(`select count(*) as count from "addresses" where icard is null`).get()
 
   console.log(`Total Count: ${count}`)
 
@@ -26,7 +26,7 @@ async function main() {
   while (offsetCounter < count) {
     console.log(`processing batch... ${offsetCounter} - ${offsetCounter + batchSize}`)
 
-    const stmt = db.prepare('select * from "addresses" order by street limit ? offset ?;')
+    const stmt = db.prepare(`select * from "addresses" where icard is null order by borough, street limit ? offset ?;`)
     const rows = stmt.all(batchSize, offsetCounter)
     offsetCounter += batchSize
 

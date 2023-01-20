@@ -1,0 +1,501 @@
+Total Count: 7881
+processing batch... 0 - 1
+Found: Brooklyn, 567, 1 STREET, 
+processing batch... 1 - 2
+Found: Brooklyn, 566, 1 STREET, 
+processing batch... 2 - 3
+Found: Brooklyn, 557, 1 STREET, 
+processing batch... 3 - 4
+Found: Brooklyn, 535, 1 STREET, 
+processing batch... 4 - 5
+Found: Brooklyn, 548, 1 STREET, 
+processing batch... 5 - 6
+Found: Brooklyn, 283, 1 STREET, 
+processing batch... 6 - 7
+Found: Brooklyn, 368, 1 STREET, 
+processing batch... 7 - 8
+Found: Brooklyn, 423A, 1 STREET, 
+processing batch... 8 - 9
+Found: Brooklyn, 435, 1 STREET, 
+processing batch... 9 - 10
+Found: Brooklyn, 551, 1 STREET, 
+processing batch... 10 - 11
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1077,
+    lot: 29,
+    address: '568 1 STREET',
+    bldgclass: 'A4',
+    numfloors: 4,
+    unitsres: 1,
+    yearbuilt: 1910,
+    number: 568,
+    street: '1 STREET',
+    icard: ''
+  }
+] page.goto: Timeout 30000ms exceeded.
+=========================== logs ===========================
+navigating to "https://www.nyc.gov/site/hpd/about/hpd-online.page", waiting until "load"
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:11:14)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 11 - 12
+Found: Brooklyn, 550, 1 STREET, 
+processing batch... 12 - 13
+Found: Brooklyn, 560, 1 STREET, 
+processing batch... 13 - 14
+Found: Brooklyn, 555, 1 STREET, 
+processing batch... 14 - 15
+Found: Brooklyn, 533, 1 STREET, 
+processing batch... 15 - 16
+Found: Brooklyn, 480, 1 STREET, 
+processing batch... 16 - 17
+Found: Brooklyn, 536, 1 STREET, 
+processing batch... 17 - 18
+Found: Brooklyn, 542, 1 STREET, 
+processing batch... 18 - 19
+Found: Brooklyn, 544, 1 STREET, 
+processing batch... 19 - 20
+Found: Brooklyn, 552, 1 STREET, 
+processing batch... 20 - 21
+Found: Brooklyn, 556, 1 STREET, 
+processing batch... 21 - 22
+Found: Brooklyn, 562, 1 STREET, 
+processing batch... 22 - 23
+Found: Brooklyn, 554, 1 STREET, 
+processing batch... 23 - 24
+Found: Brooklyn, 21, 1 STREET, 
+processing batch... 24 - 25
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1076,
+    lot: 12,
+    address: '464 1 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1911,
+    number: 464,
+    street: '1 STREET',
+    icard: null
+  }
+] locator.click: Timeout 240000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 25 - 26
+Found: Brooklyn, 538, 1 STREET, 
+processing batch... 26 - 27
+Found: Brooklyn, 541, 1 STREET, 
+processing batch... 27 - 28
+Found: Brooklyn, 478, 1 STREET, 
+processing batch... 28 - 29
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1076,
+    lot: 11,
+    address: '462 1 STREET',
+    bldgclass: 'A4',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1911,
+    number: 462,
+    street: '1 STREET',
+    icard: null
+  }
+] locator.click: Timeout 240000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 29 - 30
+Found: Brooklyn, 558, 1 STREET, 
+processing batch... 30 - 31
+Found: Brooklyn, 5108, 10 AVENUE, 
+processing batch... 31 - 32
+Found: Brooklyn, 8305, 10 AVENUE, 
+processing batch... 32 - 33
+Found: Brooklyn, 8014, 10 AVENUE, 
+processing batch... 33 - 34
+Found: Brooklyn, 8016, 10 AVENUE, 
+processing batch... 34 - 35
+Found: Brooklyn, 8315, 10 AVENUE, 
+processing batch... 35 - 36
+Found: Brooklyn, 8303, 10 AVENUE, 
+processing batch... 36 - 37
+Found: Brooklyn, 8311, 10 AVENUE, 
+processing batch... 37 - 38
+Found: Brooklyn, 7311, 10 AVENUE, 
+processing batch... 38 - 39
+Found: Brooklyn, 7902, 10 AVENUE, 
+processing batch... 39 - 40
+Found: Brooklyn, 8004, 10 AVENUE, 
+processing batch... 40 - 41
+Found: Brooklyn, 8006, 10 AVENUE, 
+processing batch... 41 - 42
+Found: Brooklyn, 8018, 10 AVENUE, 
+processing batch... 42 - 43
+Found: Brooklyn, 8020, 10 AVENUE, 
+processing batch... 43 - 44
+Found: Brooklyn, 8309, 10 AVENUE, 
+processing batch... 44 - 45
+Found: Brooklyn, 7314, 10 AVENUE, 
+processing batch... 45 - 46
+Found: Brooklyn, 7316, 10 AVENUE, 
+processing batch... 46 - 47
+Found: Brooklyn, 7310, 10 AVENUE, 
+processing batch... 47 - 48
+Found: Brooklyn, 8024, 10 AVENUE, 
+processing batch... 48 - 49
+Found: Brooklyn, 8010, 10 AVENUE, 
+processing batch... 49 - 50
+Found: Brooklyn, 5103, 10 AVENUE, 
+processing batch... 50 - 51
+Found: Brooklyn, 5109, 10 AVENUE, 
+processing batch... 51 - 52
+Found: Brooklyn, 8313, 10 AVENUE, 
+processing batch... 52 - 53
+Found: Brooklyn, 6808, 10 AVENUE, 
+processing batch... 53 - 54
+Found: Brooklyn, 6814, 10 AVENUE, 
+processing batch... 54 - 55
+Found: Brooklyn, 7320, 10 AVENUE, 
+processing batch... 55 - 56
+Found: Brooklyn, 7322, 10 AVENUE, 
+processing batch... 56 - 57
+Found: Brooklyn, 694, 10 STREET, 
+processing batch... 57 - 58
+Found: Brooklyn, 162, 10 STREET, 
+processing batch... 58 - 59
+Found: Brooklyn, 424, 10 STREET, 
+processing batch... 59 - 60
+Found: Brooklyn, 482, 10 STREET, 
+processing batch... 60 - 61
+Found: Brooklyn, 655, 10 STREET, 
+processing batch... 61 - 62
+Found: Brooklyn, 658, 10 STREET, 
+processing batch... 62 - 63
+Found: Brooklyn, 418, 10 STREET, 
+processing batch... 63 - 64
+Found: Brooklyn, 696, 10 STREET, 
+processing batch... 64 - 65
+Found: Brooklyn, 642, 10 STREET, 
+processing batch... 65 - 66
+Found: Brooklyn, 5218, 11 AVENUE, 
+processing batch... 66 - 67
+Found: Brooklyn, 1630, 11 AVENUE, 
+processing batch... 67 - 68
+Found: Brooklyn, 382, 11 STREET, 
+processing batch... 68 - 69
+Found: Brooklyn, 585, 11 STREET, 
+processing batch... 69 - 70
+Found: Brooklyn, 430, 11 STREET, 
+processing batch... 70 - 71
+Found: Brooklyn, 428, 11 STREET, 
+processing batch... 71 - 72
+Found: Brooklyn, 474, 11 STREET, 
+processing batch... 72 - 73
+Found: Brooklyn, 296, 11 STREET, 
+processing batch... 73 - 74
+Found: Brooklyn, 339, 11 STREET, 
+processing batch... 74 - 75
+Found: Brooklyn, 306, 11 STREET, 
+processing batch... 75 - 76
+Found: Brooklyn, 281, 11 STREET, 
+processing batch... 76 - 77
+Found: Brooklyn, 386, 11 STREET, 
+processing batch... 77 - 78
+Found: Brooklyn, 376, 11 STREET, 
+processing batch... 78 - 79
+Found: Brooklyn, 261, 11 STREET, 
+processing batch... 79 - 80
+Found: Brooklyn, 432, 11 STREET, 
+processing batch... 80 - 81
+Found: Brooklyn, 434, 11 STREET, 
+processing batch... 81 - 82
+Found: Brooklyn, 593, 11 STREET, 
+processing batch... 82 - 83
+Found: Brooklyn, 513, 11 STREET, 
+processing batch... 83 - 84
+Found: Brooklyn, 517, 11 STREET, 
+processing batch... 84 - 85
+Found: Brooklyn, 341, 11 STREET, 
+processing batch... 85 - 86
+Found: Brooklyn, 258, 11 STREET, 
+processing batch... 86 - 87
+Found: Brooklyn, 444, 11 STREET, 
+processing batch... 87 - 88
+Found: Brooklyn, 438, 11 STREET, 
+processing batch... 88 - 89
+Found: Brooklyn, 436, 11 STREET, 
+processing batch... 89 - 90
+Found: Brooklyn, 608, 11 STREET, 
+processing batch... 90 - 91
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1095,
+    lot: 71,
+    address: '599 11 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1889,
+    number: 599,
+    street: '11 STREET',
+    icard: null
+  }
+] locator.click: Timeout 240000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 91 - 92
+Found: Brooklyn, 472, 11 STREET, 
+processing batch... 92 - 93
+error in batch: [
+  {
+    borough: 'BK',
+    block: 6290,
+    lot: 41,
+    address: '8110 12 AVENUE',
+    bldgclass: 'A5',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1915,
+    number: 8110,
+    street: '12 AVENUE',
+    icard: null
+  }
+] locator.click: Timeout 240000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 93 - 94
+Found: Brooklyn, 8109, 12 AVENUE, 
+processing batch... 94 - 95
+Found: Brooklyn, 8104, 12 AVENUE, 
+processing batch... 95 - 96
+Found: Brooklyn, 7802, 12 AVENUE, 
+processing batch... 96 - 97
+Found: Brooklyn, 8112, 12 AVENUE, 
+processing batch... 97 - 98
+Found: Brooklyn, 8106, 12 AVENUE, 
+processing batch... 98 - 99
+Found: Brooklyn, 8108, 12 AVENUE, 
+processing batch... 99 - 100
+Found: Brooklyn, 8107, 12 AVENUE, 
+processing batch... 100 - 101
+Found: Brooklyn, 8105, 12 AVENUE, 
+processing batch... 101 - 102
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1029,
+    lot: 11,
+    address: '292 12 STREET',
+    bldgclass: 'A4',
+    numfloors: 2,
+    unitsres: 1,
+    yearbuilt: 1900,
+    number: 292,
+    street: '12 STREET',
+    icard: null
+  }
+] locator.click: Timeout 240000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 102 - 103
+Found: Brooklyn, 375A, 12 STREET, 
+processing batch... 103 - 104
+Found: Brooklyn, 213, 12 STREET, 
+processing batch... 104 - 105
+Found: Brooklyn, 379, 12 STREET, 
+processing batch... 105 - 106
+Found: Brooklyn, 198, 12 STREET, 
+processing batch... 106 - 107
+Found: Brooklyn, 196, 12 STREET, 
+processing batch... 107 - 108
+Found: Brooklyn, 244, 12 STREET, 
+processing batch... 108 - 109
+Found: Brooklyn, 327, 12 STREET, 
+processing batch... 109 - 110
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 66,
+    address: '409 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1902,
+    number: 409,
+    street: '13 STREET',
+    icard: null
+  }
+] locator.click: Timeout 240000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 110 - 111
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 61,
+    address: '419 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1881,
+    number: 419,
+    street: '13 STREET',
+    icard: null
+  }
+] locator.click: Timeout 240000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 111 - 112
+Found: Brooklyn, 466, 13 STREET, 
+processing batch... 112 - 113
+Found: Brooklyn, 478, 13 STREET, 
+processing batch... 113 - 114
+Found: Brooklyn, 275, 13 STREET, 
+processing batch... 114 - 115
+Found: Brooklyn, 281, 13 STREET, 
+processing batch... 115 - 116
+Found: Brooklyn, 418, 13 STREET, 
+processing batch... 116 - 117
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 64,
+    address: '413 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1902,
+    number: 413,
+    street: '13 STREET',
+    icard: null
+  }
+] locator.click: Timeout 240000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 117 - 118
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 63,
+    address: '415 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1881,
+    number: 415,
+    street: '13 STREET',
+    icard: null
+  }
+] locator.click: Timeout 240000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 118 - 119
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 65,
+    address: '411 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1902,
+    number: 411,
+    street: '13 STREET',
+    icard: null
+  }
+] locator.click: Timeout 240000ms exceeded.
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'TimeoutError'
+}
+processing batch... 119 - 120
+Found: Brooklyn, 490, 13 STREET, 
+processing batch... 120 - 121
+error in batch: [
+  {
+    borough: 'BK',
+    block: 1098,
+    lot: 60,
+    address: '421 13 STREET',
+    bldgclass: 'A5',
+    numfloors: 3,
+    unitsres: 1,
+    yearbuilt: 1881,
+    number: 421,
+    street: '13 STREET',
+    icard: null
+  }
+] locator.click: Browser closed.
+==================== Browser output: ====================
+<launching> /Users/apong/Library/Caches/ms-playwright/chromium-1041/chrome-mac/Chromium.app/Contents/MacOS/Chromium --disable-field-trial-config --disable-background-networking --enable-features=NetworkService,NetworkServiceInProcess --disable-background-timer-throttling --disable-backgrounding-occluded-windows --disable-back-forward-cache --disable-breakpad --disable-client-side-phishing-detection --disable-component-extensions-with-background-pages --disable-component-update --no-default-browser-check --disable-default-apps --disable-dev-shm-usage --disable-extensions --disable-features=ImprovedCookieControls,LazyFrameLoading,GlobalMediaControls,DestroyProfileOnBrowserClose,MediaRouter,DialMediaRouteProvider,AcceptCHFrame,AutoExpandDetailsElement,CertificateTransparencyComponentUpdater,AvoidUnnecessaryBeforeUnloadCheckSync,Translate --allow-pre-commit-input --disable-hang-monitor --disable-ipc-flooding-protection --disable-popup-blocking --disable-prompt-on-repost --disable-renderer-backgrounding --disable-sync --force-color-profile=srgb --metrics-recording-only --no-first-run --enable-automation --password-store=basic --use-mock-keychain --no-service-autorun --export-tagged-pdf --enable-use-zoom-for-dsf=false --headless --hide-scrollbars --mute-audio --blink-settings=primaryHoverType=2,availableHoverTypes=2,primaryPointerType=4,availablePointerTypes=4 --no-sandbox --user-data-dir=/var/folders/48/7b6nkz8923vd8h20zt4yy0zc0000gn/T/playwright_chromiumdev_profile-Y0l2xu --remote-debugging-pipe --no-startup-window
+<launched> pid=45047
+[pid=45047][err] objc[45053]: Class WebSwapCGLLayer is implemented in both /System/Library/Frameworks/WebKit.framework/Versions/A/Frameworks/WebCore.framework/Versions/A/Frameworks/libANGLE-shared.dylib (0x210d41b50) and /Users/apong/Library/Caches/ms-playwright/chromium-1041/chrome-mac/Chromium.app/Contents/Frameworks/Chromium Framework.framework/Versions/109.0.5414.46/Libraries/libGLESv2.dylib (0x107743c78). One of the two will be used. Which one is undefined.
+[pid=45047] <gracefully close start>
+=========================== logs ===========================
+waiting for locator('#lbtnIcard')
+============================================================
+    at scrapeAddress (/Users/apong/Desktop/adam/lib.js:20:36)
+    at async main (/Users/apong/Desktop/adam/main.js:38:28) {
+  name: 'Error'
+}
+processing batch... 121 - 122
