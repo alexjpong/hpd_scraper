@@ -160,3 +160,177 @@ Success: updating icard value for: BK, 1135 51 STREET to:
 processing batch... 67 - 68
 Success: updating icard value for: BK, 1121 51 STREET to: 
 processing batch... 68 - 69
+Success: updating icard value for: BK, 921 52 STREET to: 
+processing batch... 69 - 70
+Success: updating icard value for: BK, 915 52 STREET to: 
+processing batch... 70 - 71
+Success: updating icard value for: BK, 1005 52 STREET to: Date Taken	Description	Document Type	 
+03/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 71 - 72
+Success: updating icard value for: BK, 909 52 STREET to: 
+processing batch... 72 - 73
+Success: updating icard value for: BK, 913 52 STREET to: 
+processing batch... 73 - 74
+Success: updating icard value for: BK, 1971 52 STREET to: Date Taken	Description	Document Type	 
+04/06/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/06/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 74 - 75
+Success: updating icard value for: BK, 832 53 STREET to: 
+processing batch... 75 - 76
+Success: updating icard value for: BK, 826 53 STREET to: 
+processing batch... 76 - 77
+Success: updating icard value for: BK, 814 53 STREET to: 
+processing batch... 77 - 78
+Success: updating icard value for: BK, 824 53 STREET to: 
+processing batch... 78 - 79
+Success: updating icard value for: BK, 834 53 STREET to: 
+processing batch... 79 - 80
+Success: updating icard value for: BK, 1074 53 STREET to: 
+processing batch... 80 - 81
+Success: updating icard value for: BK, 830 53 STREET to: 
+processing batch... 81 - 82
+Success: updating icard value for: BK, 1235 53 STREET to: 
+processing batch... 82 - 83
+Success: updating icard value for: BK, 836 53 STREET to: 
+processing batch... 83 - 84
+Success: updating icard value for: BK, 529 53 STREET to: 
+processing batch... 84 - 85
+Success: updating icard value for: BK, 730 54 STREET to: 
+processing batch... 85 - 86
+Success: updating icard value for: BK, 1152 54 STREET to: 
+processing batch... 86 - 87
+Success: updating icard value for: BK, 1140 54 STREET to: 
+processing batch... 87 - 88
+Success: updating icard value for: BK, 1162 54 STREET to: 
+processing batch... 88 - 89
+Success: updating icard value for: BK, 1104 54 STREET to: 
+processing batch... 89 - 90
+Success: updating icard value for: BK, 962 55 STREET to: 
+processing batch... 90 - 91
+Success: updating icard value for: BK, 949 55 STREET to: 
+processing batch... 91 - 92
+Success: updating icard value for: BK, 944 55 STREET to: 
+processing batch... 92 - 93
+Success: updating icard value for: BK, 946 55 STREET to: 
+processing batch... 93 - 94
+Failure: updating error_count value for: BK, 945 55 STREET to: 1
+processing batch... 94 - 95
+Success: updating icard value for: BK, 1756 56 STREET to: 
+processing batch... 95 - 96
+Success: updating icard value for: BK, 1233 58 STREET to: 
+processing batch... 96 - 97
+Success: updating icard value for: BK, 362 6 AVENUE to: Date Taken	Description	Document Type	 
+04/02/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/02/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 97 - 98
+Success: updating icard value for: BK, 251 6 AVENUE to: Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 98 - 99
+Success: updating icard value for: BK, 360 6 AVENUE to: Date Taken	Description	Document Type	 
+04/02/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+04/02/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 99 - 100
+Success: updating icard value for: BK, 8023 6 AVENUE to: 
+processing batch... 100 - 101
+Success: updating icard value for: BK, 389 6 AVENUE to: 
+processing batch... 101 - 102
+Success: updating icard value for: BK, 86 6 AVENUE to: Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 102 - 103
+Success: updating icard value for: BK, 265 6 AVENUE to: Date Taken	Description	Document Type	 
+03/03/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/03/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 103 - 104
+Success: updating icard value for: BK, 369 6 STREET to: 
+processing batch... 104 - 105
+Success: updating icard value for: BK, 365 6 STREET to: 
+processing batch... 105 - 106
+Success: updating icard value for: BK, 356 6 STREET to: 
+processing batch... 106 - 107
+Success: updating icard value for: BK, 603 6 STREET to: Date Taken	Description	Document Type	 
+04/02/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+04/02/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+processing batch... 107 - 108
+Success: updating icard value for: BK, 1955 61 STREET to: 
+processing batch... 108 - 109
+Success: updating icard value for: BK, 2030 63 STREET to: 
+processing batch... 109 - 110
+Success: updating icard value for: BK, 2120 63 STREET to: 
+processing batch... 110 - 111
+Success: updating icard value for: BK, 2039 65 STREET to: 
+processing batch... 111 - 112
+Success: updating icard value for: BK, 2049 65 STREET to: 
+processing batch... 112 - 113
+Success: updating icard value for: BK, 2028 65 STREET to: 
+processing batch... 113 - 114
+Success: updating icard value for: BK, 2070 66 STREET to: 
+processing batch... 114 - 115
+Success: updating icard value for: BK, 2140 66 STREET to: 
+processing batch... 115 - 116
+Success: updating icard value for: BK, 2060 66 STREET to: 
+processing batch... 116 - 117
+Success: updating icard value for: BK, 2057 66 STREET to: 
+processing batch... 117 - 118
+Success: updating icard value for: BK, 2050 66 STREET to: 
+processing batch... 118 - 119
+Success: updating icard value for: BK, 156 67 STREET to: Date Taken	Description	Document Type	 
+03/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 119 - 120
+Success: updating icard value for: BK, 158 67 STREET to: 
+processing batch... 120 - 121
+Success: updating icard value for: BK, 154 67 STREET to: 
+processing batch... 121 - 122
+Success: updating icard value for: BK, 2139 67 STREET to: 
+processing batch... 122 - 123
+Success: updating icard value for: BK, 2155 67 STREET to: 
+processing batch... 123 - 124
+Success: updating icard value for: BK, 166 67 STREET to: 
+processing batch... 124 - 125
+Success: updating icard value for: BK, 516 68 STREET to: 
+processing batch... 125 - 126
+Success: updating icard value for: BK, 565 68 STREET to: 
+processing batch... 126 - 127
+Success: updating icard value for: BK, 569 68 STREET to: Date Taken	Description	Document Type	 
+03/04/2008	I-CARD IMAGE(S)	I_CARD MULTI	view
+03/04/2008	I-CARD IMAGE(S)	I_CARD SINGLE	view
+processing batch... 127 - 128
+Success: updating icard value for: BK, 518 68 STREET to: 
+processing batch... 128 - 129
+Success: updating icard value for: BK, 1372 68 STREET to: 
+processing batch... 129 - 130
+Success: updating icard value for: BK, 147 68 STREET to: 
+processing batch... 130 - 131
+Failure: updating error_count value for: BK, 536 68 STREET to: 1
+processing batch... 131 - 132
+Failure: updating error_count value for: BK, 133 68 STREET to: 1
+processing batch... 132 - 133
+Success: updating icard value for: BK, 139 68 STREET to: 
+processing batch... 133 - 134
+Success: updating icard value for: BK, 519 68 STREET to: 
+processing batch... 134 - 135
+Success: updating icard value for: BK, 942 68 STREET to: 
+processing batch... 135 - 136
+Success: updating icard value for: BK, 559 68 STREET to: 
+processing batch... 136 - 137
+Success: updating icard value for: BK, 153 68 STREET to: 
+processing batch... 137 - 138
+Success: updating icard value for: BK, 561 68 STREET to: 
+processing batch... 138 - 139
+Success: updating icard value for: BK, 8219 7 AVENUE to: 
+processing batch... 139 - 140
+Success: updating icard value for: BK, 340 7 STREET to: 
+processing batch... 140 - 141
+Success: updating icard value for: BK, 244 7 STREET to: 
+processing batch... 141 - 142
+Success: updating icard value for: BK, 828 70 STREET to: 
+processing batch... 142 - 143
+Success: updating icard value for: BK, 830 70 STREET to: 
+processing batch... 143 - 144
+Success: updating icard value for: BK, 1862 70 STREET to: 
+processing batch... 144 - 145
+Success: updating icard value for: BK, 1622 71 STREET to: 
+processing batch... 145 - 146

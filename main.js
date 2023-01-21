@@ -4,7 +4,7 @@ const scrapeAddress = require("./lib.js")
 
 const db = new Database('./hpd.sqlite3')
 
-const batchSize = 1
+const batchSize = 2
 
 const boroughMap = {
   BK: 'Brooklyn',
